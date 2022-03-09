@@ -69,3 +69,7 @@
 .footer__row {
     flex-direction: column;
 }
+.projects__row {
+    display: flex;
+    flex-wrap: wrap;
+  }

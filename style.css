@@ -116,9 +116,7 @@ h6 {
 .projects__experience-item {
   width: 25%;
 }
-.projects__row {
-  display: flex;
-}
+
 .projects__experience {
   padding: 50px 130px;
   transform: translateY(-50%);
