@@ -2,7 +2,6 @@ header {
   position: absolute;
   left: 0;
   top: 0;
-  width: 100%;
 }
 
 .header__row {
@@ -119,7 +118,6 @@ h6 {
 }
 .projects__row {
   display: flex;
-  flex-wrap: wrap;
 }
 .projects__experience {
   padding: 50px 130px;
