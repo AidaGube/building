@@ -188,6 +188,10 @@ h6 {
   height: 6px;
   background-color: #f7654a;
 }
+.projects__row{
+  display: flex;
+  flex-wrap: wrap;
+}
 
 .request {
   background: #f7654a;
