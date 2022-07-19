@@ -119,7 +119,7 @@ h6 {
 }
 .projects__row {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
 }
 .projects__experience {
   padding: 50px 130px;
