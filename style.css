@@ -328,6 +328,7 @@ h6 {
   display: block;
 }
 
+
 .partners {
   padding: 100px 0;
   background: #404149;
@@ -339,6 +340,7 @@ h6 {
 .partners__row {
   display: flex;
   margin: 0 -32px;
+  flex-wrap: nowrap;
 }
 .partners-item {
   width: 20%;
@@ -349,6 +351,7 @@ h6 {
   width: 100%;
   max-height: 60px;
 }
+
 
 .reviews {
   padding: 150px 0;
