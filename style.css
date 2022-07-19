@@ -339,6 +339,7 @@ h6 {
 .partners__row {
   display: flex;
   margin: 0 -32px;
+  flex-wrap: nowrap;
 }
 .partners-item {
   width: 20%;
