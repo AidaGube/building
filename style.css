@@ -190,7 +190,7 @@ h6 {
 }
 .projects__row{
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
 }
 
 .request {
